@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1668160559 source:d:\oop\labs\fifthlab\pictureabajora\main.cpp
+	<iostream>
+	"graphics.h"
+
+1544002460 d:\oop\labs\fifthlab\pictureabajora\graphics.h
+	<iostream>
+	<math.h>
+	<windows.h>
+	<Windows.h>
+
